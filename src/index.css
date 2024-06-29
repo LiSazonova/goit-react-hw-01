@@ -1,0 +1,31 @@
+:root {
+    --black: #000000;
+    --grey: #808080;
+    --grey-light: #c8c6c6;
+    --grey-dark: #2a2a2a;
+    --green: #098409;
+    --red: #ff100f;
+    --white: #ffffff;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+    margin: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
